@@ -1,8 +1,8 @@
 //
-// COP 2220- Assignment 5
+// 
 // Author: Zack Axel
 // Date: 03/25/2021
-// Assignment 5
+// 
 //
 
 #include <stdio.h>
