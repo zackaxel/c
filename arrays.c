@@ -1,6 +1,6 @@
 //
-//  COP 2220- Assignment 6
-// Purpose: Practice with Arrays
+//  
+//
 // 04/06/21
 // Author: Zack Axel
 //
