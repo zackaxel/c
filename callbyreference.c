@@ -1,6 +1,6 @@
 //
-// COP 2220- Assignment 7
-// Purpose: Practice with Call by Reference
+//
+//
 // 4/14/2021
 // Author: Zack Axel
 //
