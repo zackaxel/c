@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+// Sufganiyah(Sufganiyot-plural) is a round jelly doughnut eaten in Israel and around the world on the Jewish festival of Hanukkah.
+// The doughnut is deep-fried in oil, filled with jam or custard, and then topped with powdered sugar.
+// The following code base produces a floating donut or as they say in Israel, Sufganiyah
+
 #include <string.h>
 int k;
 
